@@ -79,7 +79,7 @@ class _HomePageState extends State<HomePage> {
           children: <Widget>[
             Center(
               child: Text(
-                "Appuyer dans ci-dessous pour scanner un code",
+                "Appuyer dans L'icône ci-dessous pour scanner un code",
                 textAlign: TextAlign.center,
                 style: TextStyle(
                   fontSize: 30,
